@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Logo de OpenAI](https://i.ibb.co/pzR2q1t/Portafa-Git.png)
+![Logo de OpenAI](https://i.ibb.co/XtNKXhk/Engineering-Puzzle-1.png)
 
 <!--
 **Ginneidy/Ginneidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,7 @@
-## Hi there 👋
-![Logo de OpenAI](https://i.ibb.co/XtNKXhk/Engineering-Puzzle-1.png)
-
+<H1 align= 'center'} >Hi, I'm Ginneidy Leon 👋</H1>
+![Ginneidy](https://i.ibb.co/XtNKXhk/Engineering-Puzzle-1.png)
+![GitHub followers](https://img.shields.io/github/followers/ginneidy?style=flat&logo=github&logoColor=%238c52ff&label=Followers&labelColor=%23c6c2f2&color=%238c52ff)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ginneidy/)
 <!--
 **Ginneidy/Ginneidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

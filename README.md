@@ -6,7 +6,11 @@
 
 ## 🚀 About Me
 
-I'm Ginneidy, a **Systems Engineer** 🌟 with a passion for crafting innovative tech solutions. As a **Full Stack Developer** 💻 and **Mobile Development** enthusiast 📱, I've delved into various projects that blend creativity with technology. My mission is to build user-friendly, efficient, and scalable applications. I'm always on the lookout for new challenges that push the boundaries of what’s possible!
+- 🌟 **Systems Engineer**
+- 💻 **Full Stack Developer**
+- 📱 **Mobile Development**
+
+I'm always on the lookout for new challenges that push the boundaries of what’s possible!
 
 ## 🛠️ Tech Stack
 
@@ -22,6 +26,24 @@ I'm Ginneidy, a **Systems Engineer** 🌟 with a passion for crafting innovative
 ### **Tools & Platforms**
 - 🧰 Git | 🐋 Docker | 🧪 Postman | 📊 Jira | 🎨 Figma
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ginneidy&show_icons=true&theme=tokyonight" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginneidy&layout=compact&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
+
+
+
+ 
+
+<!--- stats (end) -->
+
 ## 🌟 Let's Collaborate!
 
 I'm always excited to collaborate on open-source projects, contribute to innovative ideas, and connect with fellow tech enthusiasts. Whether it's brainstorming, coding, or just geeking out over tech, feel free to reach out!
+
